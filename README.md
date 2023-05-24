@@ -1,5 +1,5 @@
 # asteroids_densenetworks
-Classify asteroids according rarity.
+Classify asteroids according rarity using NN sequential models.
 
 This project focuses on the analysis of asteroids using the dataset "NEO Earth Close Approaches.csv". The dataset provides information about close approaches of Near-Earth Objects (NEOs) to Earth. The project is implemented in the form of a Jupyter Notebook.
 
